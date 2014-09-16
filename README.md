@@ -8,7 +8,7 @@ NHN focus on the value of open source and continuously contributes open sources 
 
 Ongoing Projects
 ----------------
-* [nGrinder](http://www.nhnopensource.org/ngrinder)  http://www.nhnopensource.org/ngrinder
+* [nGrinder](https://github.com/naver/ngrinder)  https://github.com/naver/ngrinder
 
    Web based performance test tool. With nGrinder you can create stress test script, run scripts, monitor target performance and generate the report in a single environment.
    Base on Grinder(http://grinder.sourceforge.net), nGrinder provide an integrated environment so that even novice users can make stress test without long learning curve.
